@@ -1,3 +1,3 @@
 
 print("Hello world")
-Good morning 
+print("Good morning") 
